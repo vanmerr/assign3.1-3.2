@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "660aceadee5682c9f9d14a0f"
+  },
+  "userId": "mchang",
+  "time": {
+    "$date": "2024-04-01T15:11:41.723Z"
+  },
+  "text": "Welcome to the Generic Social Media App!"
+},
+{
+  "_id": {
+    "$oid": "660bab85293aa3114bb83b51"
+  },
+  "userId": "vanmo",
+  "time": "2024-04-02T06:53:57.901Z",
+  "text": "Say hi"
+},
+{
+  "_id": {
+    "$oid": "660bb795bc0027b9b7531aca"
+  },
+  "userId": "mchang",
+  "time": "2024-04-02T07:45:25.335Z",
+  "text": "Say 2345"
+},
+{
+  "_id": {
+    "$oid": "660bb8b2074534e9ba4120d6"
+  },
+  "userId": "vanmo",
+  "time": "2024-04-02T07:50:10.578Z",
+  "text": "Say 76758568568"
+},
+{
+  "_id": {
+    "$oid": "660bb8c4074534e9ba4120d7"
+  },
+  "userId": "mchang",
+  "time": "2024-04-02T07:50:28.496Z",
+  "text": "say djksfnvdj"
+},
+{
+  "_id": {
+    "$oid": "660bb94da7661c4d10bd890a"
+  },
+  "userId": "chile",
+  "time": "2024-04-02T07:52:45.220Z",
+  "text": "Say 78"
+},
+{
+  "_id": {
+    "$oid": "660bbab4a7661c4d10bd890b"
+  },
+  "userId": "mchang",
+  "time": "2024-04-02T07:58:44.207Z",
+  "text": "post next >>.<<"
+},
+{
+  "_id": {
+    "$oid": "660bbb9ba7661c4d10bd890c"
+  },
+  "userId": "chile",
+  "time": "2024-04-02T08:02:35.323Z",
+  "text": "vaaaaa"
+},
+{
+  "_id": {
+    "$oid": "660bbda0a7661c4d10bd890d"
+  },
+  "userId": "mchang",
+  "time": "2024-04-02T08:11:12.740Z",
+  "text": "àhhhhhhs"
+},
+{
+  "_id": {
+    "$oid": "660bc32da7661c4d10bd890e"
+  },
+  "userId": "mchang",
+  "time": "2024-04-02T08:34:53.411Z",
+  "text": "asdfgfsd"
+},
+{
+  "_id": {
+    "$oid": "660bc36aa7661c4d10bd890f"
+  },
+  "userId": "mchang",
+  "time": "2024-04-02T08:35:54.489Z",
+  "text": "ghdfjd"
+},
+{
+  "_id": {
+    "$oid": "661415837a41b7a05b9816cc"
+  },
+  "userId": "mchang",
+  "time": "2024-04-08T16:04:19.642Z",
+  "text": "sdfghjkljkhgf"
+},
+{
+  "_id": {
+    "$oid": "66141ee416873f16069a57c4"
+  },
+  "userId": "mchang",
+  "time": "2024-04-08T16:44:20.139Z",
+  "text": "12222"
+}]
